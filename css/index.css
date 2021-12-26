@@ -1,0 +1,84 @@
+.del{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+h1{
+    text-align: center;
+}
+.del p{
+    text-align: center;
+}
+.content{
+    display:flex;
+    flex-wrap: wrap;
+}
+.content h6{
+    font-size: 0.6rem;
+}
+.img{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.button{
+    background-color: AF997F;
+    text-align: center;
+}
+.button button{
+    background-color: #AF997F;
+    color:white;
+    padding:10px 30px;
+    border:none;
+    outline: none;
+    border-radius: 20px;
+}
+.ours{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.skill{
+    padding:0 0;
+    border-bottom: 2px solid #AF997F;
+    display: flex;
+    align-items: center;
+}
+.servi{
+    background: rgba(0,0,0,0.8) url("../image/audo.png");
+    background-blend-mode: darken;
+    background-size: cover;
+    color:white;
+    padding:10px 20px;
+    font-size: 0.7rem;
+}
+.med{
+    display:flex;
+    justify-content:space-between;
+}
+.form{
+    text-align: center;
+}
+input{
+    padding:20px;
+    background-color: black;
+    color:#AEE1F0;
+        margin:20px;
+        border-radius: 30px;;
+}
+.footer{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.next{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    flex-wrap: wrap;
+}
+.card{
+    background: none;
+}
